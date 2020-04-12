@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Why Did You Decide To Learn Software Development?"
-date:       2020-04-12 01:09:41 +0000
+title:      "Why Did You Decide To Learn Software Engineering?"
+date:       2020-04-11 21:09:41 -0400
 permalink:  why_did_you_decide_to_learn_software_development
 ---
 
